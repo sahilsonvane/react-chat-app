@@ -7,7 +7,7 @@ import { ref, get,update } from "firebase/database"; // Realtime Database functi
 import { useNavigate } from 'react-router-dom'
 import { toast } from 'react-toastify'
 import upload from '../../lib/upload' 
-import { AppContext } from '../../context/appContext'
+import { AppContext } from '../../context/AppContext.jsx'
 
 const ProfileUpdate = () => {
   const [image, setImage] = useState(false)

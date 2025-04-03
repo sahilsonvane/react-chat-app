@@ -4,7 +4,7 @@ import assets from "../../assets/assets";
 import { useNavigate } from "react-router-dom";
 import { db, logout } from "../../config/firebase.js";
 import {ref, get,push, set, update} from "firebase/database";
-import { AppContext } from "../../context/appContext";
+import { AppContext } from "../../context/AppContext.jsx";
 import { toast } from "react-toastify";
 
 const LeftSidebar = () => {
