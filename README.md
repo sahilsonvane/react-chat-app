@@ -2,7 +2,7 @@
 
 ![App Screenshot](/chat-app.png)
 
-A real-time chat application built with React and Firebase, featuring authentication, messaging, and media sharing.
+A real-time chat application built with React and Firebase as a learning project to understand core React concepts like state management, hooks, and component architecture. Features authentication, messaging, and media sharing to demonstrate practical implementation of these concepts.
 
 ## Live Preview
 https://react-chat-app-0vk7.onrender.com
